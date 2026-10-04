@@ -595,7 +595,7 @@ with draw_tab:
 
             drawing_mode="freedraw",
 
-            display_toolbar=True,
+            return_image_data=True,
 
             key="drawing_canvas"
         )
